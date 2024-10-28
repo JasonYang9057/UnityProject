@@ -1,4 +1,3 @@
-# InterviewProject
 Author: Jia Hao Yang (Jason Yang preferred) 
 Project Name: My Project
 
